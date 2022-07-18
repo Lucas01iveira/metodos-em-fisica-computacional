@@ -384,7 +384,6 @@ esp_x = valor_esperado_x(Psi, N, x, dx, t) # obtém o valor esperado da posiçã
 #cria_gif(Psi, x, t, 'exemplo_manual') # cria um gif de evolução temporal da função de onda
 
 # Plots de esp_E, esp_x e N
-
 # Plot de esp_E
 plt.figure(figsize=(9,6))
 
