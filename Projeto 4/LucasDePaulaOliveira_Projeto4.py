@@ -693,5 +693,5 @@ plt.ylabel(r'$<x>$', fontsize=16)
 plt.xticks(fontsize=14)
 plt.yticks(fontsize=14)
 plt.xlim(0, 0.08) # análise do período de oscilação
-
+plt.show()
 # ---------------------------------------------------------------------------------------------
